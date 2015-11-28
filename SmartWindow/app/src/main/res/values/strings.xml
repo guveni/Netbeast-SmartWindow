@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartWindow</string>
+    <string name="turnOnLight">Turn On Light</string>
+    <string name="turnOffLight">Turn Off Light</string>
+</resources>
